@@ -1,6 +1,6 @@
 # Advanced_Lane_detection
+In this project, not only is the lane detected precisely but also the curvature of both the lanes calculated and the offset of the vehicle center (where the camera is assumed to be placed) from the center of the lane is also calculated.
 
-# Lane Detection Project
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,7 +12,7 @@
 - [Future Improvements](#future-improvements)
 
 ## Introduction
-The Lane Detection Project is aimed at developing an effective lane detection algorithm capable of accurately detecting lane markings in various driving conditions, including sharp curves and high-contrast lighting. The project utilizes computer vision techniques to process video frames and overlay detected lanes on the original video.
+The Advanced Lane Detection Project is aimed at developing an effective lane detection algorithm capable of accurately detecting lane markings in various driving conditions, including sharp curves and high-contrast lighting. The project utilizes computer vision techniques to process video frames and overlay detected lanes on the original video.
 
 ## Getting Started
 This project processes input video files, applies image preprocessing techniques, and outputs a video with detected lanes highlighted.
