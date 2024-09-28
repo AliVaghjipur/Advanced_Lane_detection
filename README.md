@@ -47,4 +47,4 @@ Output Video: Overlaying detected lanes on the original video.
 
 ## Results
 Here are some results from the lane detection algorithm:
-![Advanced_Lane_detection](Output
+![Advanced_Lane_detection](project_video_output.mp4)
