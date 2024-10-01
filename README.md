@@ -25,16 +25,7 @@ project_video_output.mp4 - shows the result of the code working.
 - NumPy
 - Matplotlib
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/LaneDetectionProject.git
-   cd LaneDetectionProject
 
-## Usage
-Place your input video file in the place of the 'project_video.mp4' in the file FinalLaneDetection.ipynb
-Run the lane detection algorithm:
-View the output video in the same directory
 
 ## Algorithm Overview
 The lane detection algorithm includes the following key steps:
